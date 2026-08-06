@@ -28,3 +28,5 @@ Somos estudiantes de la carrera de Ciencias de la Computación con interés en e
 ## Objetivo del Portafolio
 
 Este repositorio tiene como finalidad presentar nuestras habilidades, conocimientos y proyectos desarrollados durante nuestra formación académica, sirviendo como una muestra de nuestro aprendizaje y crecimiento profesional.
+## Extra
+Actualmente seguimos aprendiendo nuevas tecnologías.
